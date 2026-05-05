@@ -34,7 +34,7 @@
 }
 .desc {  line-height: 1.6; 
 }
-.stats-box { display: flex;
+.stats { display: flex;
      gap: 30px;
       margin-top: 30px; 
 }
